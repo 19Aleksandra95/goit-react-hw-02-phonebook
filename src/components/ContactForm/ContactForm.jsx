@@ -2,7 +2,7 @@ import { Component } from 'react';
 import PropTypes from 'prop-types';
 import css from './ContactForm.module.css';
 import {FcAdvertising} from "react-icons/fc";
-import { render } from '@testing-library/react';
+
 
 export class ContactForm extends Component {
     state = {
